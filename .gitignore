@@ -1,0 +1,10 @@
+.graf
+.gradle/
+.idea/
+gradle/
+build.gradle
+build/
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
+settings.gradle
